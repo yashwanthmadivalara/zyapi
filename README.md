@@ -1,4 +1,4 @@
-# ViralFlow AI
+# zyapi / ViralFlow AI
 
 ViralFlow AI is a local-first MVP for turning videos you own or are authorized to process into reviewable short-form clip candidates.
 
