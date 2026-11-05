@@ -1,0 +1,2 @@
+-- Initial schema is applied by backend/app/db.py for the local MVP.
+-- Keep this file as the handoff point when moving to Supabase migrations.

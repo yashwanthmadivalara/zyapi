@@ -1,0 +1,35 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Node.js
+node_modules/
+.next/
+dist/
+build/
+
+# Generated media
+data/uploads/
+data/outputs/
+
+# Local databases
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+
+# Temporary files and test artifacts
+tmp/
+temp/
